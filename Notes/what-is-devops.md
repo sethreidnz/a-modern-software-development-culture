@@ -32,5 +32,12 @@ Often continuous delivery and DevOps are confused. They are similar but DevOps h
 - Shortened lead time between fixes
 - Faster mean time to recovery in case of release crashing or breaking the system
 
+### DevOps and achitecture
 
+There a number of requirements that a software application needs to have to be able to practice DevOps such as:
 
+- Deployability
+- Testability
+- Monitorability
+
+Any architecture can be used but micro-services are becoming the defacto approach among DevOps adherents.
