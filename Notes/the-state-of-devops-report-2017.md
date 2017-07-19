@@ -105,10 +105,12 @@ This flies in the face of the excepted GitHub model but the report did some furt
 - Low performers have the longest integration times and branch lifetimes, with branch life and integration typically lasting days. -
 - These differences are statistically significant.
 
-
 ## Lean project management
 
+Lean product management compirese of two capababilties as investigated in this repport:
 
+- Splitting work into small batches and making visible the flow of work through the delivery process. 
+- Gathering, broadcasting and implementing customer feedback. 
 
 ## Futher reading
 
